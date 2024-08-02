@@ -3,6 +3,7 @@
  *
  *      Author: Ahmed Mostafa
  */
+
 #include "UART.h"
 #include "avr/io.h"
 #include "common_macros.h"
